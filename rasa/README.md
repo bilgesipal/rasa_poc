@@ -54,21 +54,21 @@ code for it and re-arrange the yml files accordingly.
 
 Natural Language Understanding yaml Files
 
-![NLU](/Users/bilgesipal/PycharmPjects/rasa_poc/rasa/github/nlu.png)
-rojects/rasa_poc/rasa/github/nlu.png),
+![NLU](https://github.com/bilgesipal/rasa_poc/blob/master/rasa/github/nlu.png)
+
 
 RULES yaml Files
 
-![RULES](//Users/bilgesipal/PycharmProjects/rasa_poc/rasa/github/rule.png)
+![RULES](https://github.com/bilgesipal/rasa_poc/blob/master/rasa/github/rule.png)
 
 
 Endpoints  yaml Files
 
-![ENDPOINTS](/Users/bilgesipal/PycharmProjects/rasa_poc/rasa/github/endpoints.png)
+![ENDPOINTS](https://github.com/bilgesipal/rasa_poc/blob/master/rasa/github/endpoints.png)
 
 Credentials
 
-![CREDENTIALS](/Users/bilgesipal/PycharmProjects/rasa_poc/rasa/github/credentials.png)
+![CREDENTIALS](https://github.com/bilgesipal/rasa_poc/blob/master/rasa/github/credentials.png)
 
 
 <br/><br/>
