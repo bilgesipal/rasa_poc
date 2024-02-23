@@ -1,0 +1,11 @@
+.DS_Store
+.trunk
+.vscode
+mnt
+venv/
+.env
+__pycache__/
+app/rasa/models/*
+app/rasa/.rasa
+app/rasa/.config
+app/rasa/.keras
